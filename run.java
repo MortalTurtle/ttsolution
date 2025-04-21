@@ -8,8 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 
-public class Main {
-
+public class run {
 
     public static boolean checkCapacity(int maxCapacity, List<Map<String, String>> guests) {
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy-MM-dd");
